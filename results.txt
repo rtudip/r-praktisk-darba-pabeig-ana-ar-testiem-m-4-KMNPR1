@@ -1,0 +1,8 @@
+
+Visbiežāk sastopamais līmenis: 1 
+
+Rindas ar līmeni 1 :
+ [1] X             Intercept     Slope         ICerror       SLerror      
+ [6] r.squared     adj.r.squared RMSD          MAD           b            
+[11] f             Average      
+<0 rows> (or 0-length row.names)
